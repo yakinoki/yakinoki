@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there! 👋
+![ｆ](https://user-images.githubusercontent.com/46132709/218482293-92935b8c-bdcd-439d-a728-3cdae50f40a0.png)
 <!--
 **yakinoki/yakinoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
