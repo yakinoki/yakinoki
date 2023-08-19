@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 [![Qiita](https://img.shields.io/badge/Qiita-Link%20to%20Qiita-brightgreen?logo=qiita)](https://qiita.com/naoya_ok)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)]([https://qiita.com/naoya_ok](https://www.kaggle.com/yakinoki/code))
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/yakinoki/code)
 
 <!--
 **yakinoki/yakinoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
