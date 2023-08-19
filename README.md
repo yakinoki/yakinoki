@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 
 ![lang:Python](https://img.shields.io/badge/language-Python-1A6CB3)
 
+Flaskの練習です。
