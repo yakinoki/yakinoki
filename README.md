@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakinoki&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakinoki)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakinoki&layout=compact)(https://github-readme-stats.vercel.app/api?username=yakinoki)
 
 ---
 
 ### [Flask_practice](https://github.com/yakinoki/Flask_practice)
 
 ![lang:Python](https://img.shields.io/badge/language-Python-1A6CB3)
+![version](https://img.shields.io/github/v/release/yakinoki/Flask_practice)
 
 Flaskの練習です。
