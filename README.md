@@ -1,5 +1,8 @@
 ### Hi there! 👋
 
+[![Qiita](https://img.shields.io/badge/Qiita-Read%20on%20Qiita-brightgreen?logo=qiita)](https://qiita.com/naoya_ok)
+
+
 <!--
 **yakinoki/yakinoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
