@@ -18,7 +18,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakinoki&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakinoki)
 
+---
 
+### [Flask_practice](https://github.com/yakinoki/Flask_practice)
+
+![lang:Python](https://img.shields.io/badge/language-Python-1A6CB3)
 
