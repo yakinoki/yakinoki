@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yakinoki&theme=onedark&show_icons=true)
 
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yakinoki/notebook)
-
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yakinoki/discussion)
 ---
 
 ### [Flask_practice](https://github.com/yakinoki/Flask_practice)
