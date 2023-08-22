@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakinoki&layout=compact&theme=onedark)](https://github-readme-stats.vercel.app/api?username=yakinoki)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yakinoki&theme=onedark&show_icons=true)
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yakinoki/competition)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yakinoki/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/yakinoki/discussion)
 ---
