@@ -2,6 +2,7 @@
 
 [![Qiita](https://img.shields.io/badge/Qiita-Link%20to%20Qiita-brightgreen?logo=qiita)](https://qiita.com/naoya_ok)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/yakinoki/code)
+[![Zenn](https://img.shields.io/badge/Zenn-red?logo=Zenn)](https://zenn.dev/zaruta)
 
 
 <!--
