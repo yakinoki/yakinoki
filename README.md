@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakinoki&layout=compact&theme=onedark)](https://github-readme-stats.vercel.app/api?username=yakinoki)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yakinoki&theme=onedark&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yakinoki&theme=gruvbox_light&show_icons=true)
 
 
 
