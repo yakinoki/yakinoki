@@ -4,6 +4,12 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/yakinoki/code)
 [![Zenn](https://img.shields.io/badge/Zenn-red?logo=Zenn)](https://zenn.dev/zaruta)
 
+<p align="left">
+  <a href="https://github.com/yakinoki/yakinoki/">
+    <img src="https://komarev.com/ghpvc/?username=yakinoki" alt="yakinoki" />
+  </a>
+</p>
+
 
 <!--
 **yakinoki/yakinoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,9 +36,4 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,react,python,ts,github&theme=light)](https://skillicons.dev)
 
 ---
-### [Flask_practice](https://github.com/yakinoki/Flask_practice)
 
-![lang:Python](https://img.shields.io/badge/language-Python-1A6CB3)
-[![version](https://img.shields.io/github/v/release/yakinoki/Flask_practice)](https://github.com/yakinoki/Flask_practice/releases)
-
-Flaskの練習です。
