@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,python,ts,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,react,python,ts,github&theme=light)](https://skillicons.dev)
 
 ---
 
