@@ -1,4 +1,6 @@
 ### Hi there! 👋
+Backend / Data-oriented Engineer  
+Interested in system design, data analysis, and practical use of statistics.
 
 [![Qiita](https://img.shields.io/badge/Qiita-Link%20to%20Qiita-brightgreen?logo=qiita)](https://qiita.com/naoya_ok)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/yakinoki/code)
@@ -27,8 +29,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yakinoki&layout=compact&theme=onedark)](https://github-readme-stats.vercel.app/api?username=yakinoki)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yakinoki&theme=gruvbox_light&show_icons=true)
+
 
 
 
