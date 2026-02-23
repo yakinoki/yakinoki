@@ -1,6 +1,7 @@
 ### Hi there! 👋
-Backend / Data-oriented Engineer  
-Interested in system design, data analysis, and practical use of statistics.
+Analytics Engineer
+Bridging Data Engineering and Data Science with a foundation in Statistics.
+Focused on Practical Marketing Analytics and Causal Modeling.
 
 [![Qiita](https://img.shields.io/badge/Qiita-Link%20to%20Qiita-brightgreen?logo=qiita)](https://qiita.com/naoya_ok)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/yakinoki/code)
