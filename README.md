@@ -6,6 +6,7 @@ Focused on Practical Marketing Analytics and Causal Modeling.
 [![Qiita](https://img.shields.io/badge/Qiita-Link%20to%20Qiita-brightgreen?logo=qiita)](https://qiita.com/naoya_ok)
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/yakinoki/code)
 [![Zenn](https://img.shields.io/badge/Zenn-red?logo=Zenn)](https://zenn.dev/zaruta)
+[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/yakinoki)
 
 <p align="left">
   <a href="https://github.com/yakinoki/yakinoki/">
